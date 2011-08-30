@@ -1,9 +1,13 @@
 Boxed version 1.00
 Copyright (c) 2005 Michael D. Schmitz
 
-A clone of the good old Beasts game for the classic Macintosh.
+A clone of the good old Beasts game for the classic Macintosh.  Unfortunately,
+the code is in somewhat of a disorder because this was written in late high
+school when I really didn't know C++ (not that I do now).
 
-Blurb:
-Cage the squirrels by pushing boxes around them. But beware: the squirrels
-bite. As the levels increase not only do the squirrels multiply, but they
-quicken and the boxes needed to confine them become scarce!
+Here is a blurb for the game:
+
+    Cage the squirrels by pushing boxes around them. But beware: the 
+    squirrels bite. As the levels increase not only do the squirrels 
+    multiply, but they quicken and the boxes needed to confine them 
+    become scarce!
