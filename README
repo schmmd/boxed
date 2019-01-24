@@ -5,6 +5,8 @@ A clone of the good old Beasts game for the classic Macintosh.  Unfortunately,
 the code is in somewhat of a disorder because this was written in late high
 school when I really didn't know C++ (not that I do now).
 
+This was written to run under Gnome on Linux.
+
 Here is a blurb for the game:
 
     Cage the squirrels by pushing boxes around them. But beware: the 
